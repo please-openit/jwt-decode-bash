@@ -28,7 +28,7 @@ Clone the repo or place the scripts on your system:
 
 ```bash
 git clone <repo-url>
-cd jwt-bash
+cd jwt-decode-bash
 chmod +x jwt-linux.sh jwt-mac.sh
 ```
 
